@@ -4,7 +4,7 @@ An R Shiny application for visualizing BC land cover across Wildlife Management 
  
 ## Overview
  
-The **BC Land Cover Change Shiny App** is an interactive visualization tool for exploring land cover dynamics across British Columbia Wildlife Management Units (WMUs) from **1984–2022**.
+The **BC Land Cover Change Shiny App** is an interactive visualization tool for exploring land cover dynamics across British Columbia Wildlife Management Units (WMUs) from **1984-2022**.
  
 The application allows users to:
  

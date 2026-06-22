@@ -1,2 +1,2 @@
 # bc-landcover-shiny
-An R Shiny Application of BC landcover visualization tool organized across Wildlife Management Units.
+An R Shiny application for visualizing BC land cover across Wildlife Management Units.
